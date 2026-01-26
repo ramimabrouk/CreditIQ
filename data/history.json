@@ -1,0 +1,1406 @@
+[
+  {
+    "id": 0,
+    "profile": {
+      "income": 2767,
+      "expenses": 1966,
+      "employment_length": 2,
+      "loan_amount": 31017,
+      "loan_term": 48,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 1,
+    "profile": {
+      "income": 2861,
+      "expenses": 2935,
+      "employment_length": 1,
+      "loan_amount": 33155,
+      "loan_term": 60,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 2,
+    "profile": {
+      "income": 5537,
+      "expenses": 2105,
+      "employment_length": 4,
+      "loan_amount": 8087,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 3,
+    "profile": {
+      "income": 2286,
+      "expenses": 2092,
+      "employment_length": 1,
+      "loan_amount": 20253,
+      "loan_term": 36,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 4,
+    "profile": {
+      "income": 2832,
+      "expenses": 1518,
+      "employment_length": 0,
+      "loan_amount": 37832,
+      "loan_term": 48,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 5,
+    "profile": {
+      "income": 6484,
+      "expenses": 2884,
+      "employment_length": 3,
+      "loan_amount": 13123,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 6,
+    "profile": {
+      "income": 6765,
+      "expenses": 2650,
+      "employment_length": 3,
+      "loan_amount": 13965,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 7,
+    "profile": {
+      "income": 9999,
+      "expenses": 2067,
+      "employment_length": 7,
+      "loan_amount": 19992,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 8,
+    "profile": {
+      "income": 3996,
+      "expenses": 2609,
+      "employment_length": 0,
+      "loan_amount": 20415,
+      "loan_term": 48,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 9,
+    "profile": {
+      "income": 6449,
+      "expenses": 2280,
+      "employment_length": 4,
+      "loan_amount": 13021,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 10,
+    "profile": {
+      "income": 13200,
+      "expenses": 1005,
+      "employment_length": 4,
+      "loan_amount": 19733,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 11,
+    "profile": {
+      "income": 4053,
+      "expenses": 2873,
+      "employment_length": 1,
+      "loan_amount": 5220,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 12,
+    "profile": {
+      "income": 2865,
+      "expenses": 1982,
+      "employment_length": 1,
+      "loan_amount": 34605,
+      "loan_term": 36,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 13,
+    "profile": {
+      "income": 3662,
+      "expenses": 2888,
+      "employment_length": 0,
+      "loan_amount": 20315,
+      "loan_term": 36,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 14,
+    "profile": {
+      "income": 5480,
+      "expenses": 2227,
+      "employment_length": 4,
+      "loan_amount": 10383,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 15,
+    "profile": {
+      "income": 10565,
+      "expenses": 2343,
+      "employment_length": 7,
+      "loan_amount": 16964,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 16,
+    "profile": {
+      "income": 10651,
+      "expenses": 1488,
+      "employment_length": 9,
+      "loan_amount": 18635,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 17,
+    "profile": {
+      "income": 8122,
+      "expenses": 2495,
+      "employment_length": 3,
+      "loan_amount": 5960,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 18,
+    "profile": {
+      "income": 3679,
+      "expenses": 2747,
+      "employment_length": 2,
+      "loan_amount": 32752,
+      "loan_term": 60,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 19,
+    "profile": {
+      "income": 2941,
+      "expenses": 1566,
+      "employment_length": 2,
+      "loan_amount": 18905,
+      "loan_term": 36,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 20,
+    "profile": {
+      "income": 8071,
+      "expenses": 1062,
+      "employment_length": 8,
+      "loan_amount": 12030,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 21,
+    "profile": {
+      "income": 9201,
+      "expenses": 1059,
+      "employment_length": 9,
+      "loan_amount": 16318,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 22,
+    "profile": {
+      "income": 10311,
+      "expenses": 1476,
+      "employment_length": 9,
+      "loan_amount": 18832,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 23,
+    "profile": {
+      "income": 14193,
+      "expenses": 2882,
+      "employment_length": 5,
+      "loan_amount": 5199,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 24,
+    "profile": {
+      "income": 11800,
+      "expenses": 1717,
+      "employment_length": 7,
+      "loan_amount": 19857,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 25,
+    "profile": {
+      "income": 9582,
+      "expenses": 500,
+      "employment_length": 0,
+      "loan_amount": 45000,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": [
+      "fraud"
+    ]
+  },
+  {
+    "id": 26,
+    "profile": {
+      "income": 10229,
+      "expenses": 2808,
+      "employment_length": 8,
+      "loan_amount": 6041,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 27,
+    "profile": {
+      "income": 6716,
+      "expenses": 3525,
+      "employment_length": 3,
+      "loan_amount": 10931,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 28,
+    "profile": {
+      "income": 8168,
+      "expenses": 1696,
+      "employment_length": 9,
+      "loan_amount": 9725,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 29,
+    "profile": {
+      "income": 5560,
+      "expenses": 2399,
+      "employment_length": 2,
+      "loan_amount": 7484,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 30,
+    "profile": {
+      "income": 3326,
+      "expenses": 1640,
+      "employment_length": 0,
+      "loan_amount": 14273,
+      "loan_term": 36,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 31,
+    "profile": {
+      "income": 7077,
+      "expenses": 1979,
+      "employment_length": 8,
+      "loan_amount": 8573,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 32,
+    "profile": {
+      "income": 10610,
+      "expenses": 1216,
+      "employment_length": 3,
+      "loan_amount": 13953,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 33,
+    "profile": {
+      "income": 12890,
+      "expenses": 2366,
+      "employment_length": 3,
+      "loan_amount": 8739,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 34,
+    "profile": {
+      "income": 12427,
+      "expenses": 1346,
+      "employment_length": 9,
+      "loan_amount": 8061,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 35,
+    "profile": {
+      "income": 4826,
+      "expenses": 2973,
+      "employment_length": 1,
+      "loan_amount": 14657,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 36,
+    "profile": {
+      "income": 14469,
+      "expenses": 1570,
+      "employment_length": 7,
+      "loan_amount": 19027,
+      "loan_term": 36,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 37,
+    "profile": {
+      "income": 3804,
+      "expenses": 2343,
+      "employment_length": 1,
+      "loan_amount": 22525,
+      "loan_term": 48,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 38,
+    "profile": {
+      "income": 13152,
+      "expenses": 1966,
+      "employment_length": 4,
+      "loan_amount": 16560,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 39,
+    "profile": {
+      "income": 8552,
+      "expenses": 1975,
+      "employment_length": 4,
+      "loan_amount": 11344,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 40,
+    "profile": {
+      "income": 5328,
+      "expenses": 2403,
+      "employment_length": 4,
+      "loan_amount": 9056,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 41,
+    "profile": {
+      "income": 7425,
+      "expenses": 1052,
+      "employment_length": 4,
+      "loan_amount": 17023,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 42,
+    "profile": {
+      "income": 5797,
+      "expenses": 2016,
+      "employment_length": 2,
+      "loan_amount": 9959,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 43,
+    "profile": {
+      "income": 7572,
+      "expenses": 1728,
+      "employment_length": 9,
+      "loan_amount": 11378,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 44,
+    "profile": {
+      "income": 11187,
+      "expenses": 2737,
+      "employment_length": 7,
+      "loan_amount": 12468,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 45,
+    "profile": {
+      "income": 8465,
+      "expenses": 1181,
+      "employment_length": 3,
+      "loan_amount": 7103,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 46,
+    "profile": {
+      "income": 6693,
+      "expenses": 3241,
+      "employment_length": 2,
+      "loan_amount": 7551,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 47,
+    "profile": {
+      "income": 2353,
+      "expenses": 2900,
+      "employment_length": 0,
+      "loan_amount": 15103,
+      "loan_term": 36,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 48,
+    "profile": {
+      "income": 2200,
+      "expenses": 2949,
+      "employment_length": 0,
+      "loan_amount": 38875,
+      "loan_term": 36,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 49,
+    "profile": {
+      "income": 6443,
+      "expenses": 3014,
+      "employment_length": 2,
+      "loan_amount": 14071,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 50,
+    "profile": {
+      "income": 13403,
+      "expenses": 2961,
+      "employment_length": 3,
+      "loan_amount": 9829,
+      "loan_term": 36,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 51,
+    "profile": {
+      "income": 3597,
+      "expenses": 1706,
+      "employment_length": 0,
+      "loan_amount": 12809,
+      "loan_term": 48,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 52,
+    "profile": {
+      "income": 8304,
+      "expenses": 1668,
+      "employment_length": 3,
+      "loan_amount": 9660,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 53,
+    "profile": {
+      "income": 6323,
+      "expenses": 3509,
+      "employment_length": 1,
+      "loan_amount": 7153,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 54,
+    "profile": {
+      "income": 11563,
+      "expenses": 1340,
+      "employment_length": 4,
+      "loan_amount": 9238,
+      "loan_term": 36,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 55,
+    "profile": {
+      "income": 11362,
+      "expenses": 500,
+      "employment_length": 0,
+      "loan_amount": 45000,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": [
+      "fraud"
+    ]
+  },
+  {
+    "id": 56,
+    "profile": {
+      "income": 12473,
+      "expenses": 2761,
+      "employment_length": 3,
+      "loan_amount": 10239,
+      "loan_term": 36,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 57,
+    "profile": {
+      "income": 8137,
+      "expenses": 1310,
+      "employment_length": 4,
+      "loan_amount": 7034,
+      "loan_term": 36,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 58,
+    "profile": {
+      "income": 4874,
+      "expenses": 3253,
+      "employment_length": 4,
+      "loan_amount": 13679,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 59,
+    "profile": {
+      "income": 12812,
+      "expenses": 1122,
+      "employment_length": 4,
+      "loan_amount": 5327,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 60,
+    "profile": {
+      "income": 3339,
+      "expenses": 1500,
+      "employment_length": 1,
+      "loan_amount": 17151,
+      "loan_term": 48,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 61,
+    "profile": {
+      "income": 3877,
+      "expenses": 1934,
+      "employment_length": 1,
+      "loan_amount": 11982,
+      "loan_term": 60,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 62,
+    "profile": {
+      "income": 13211,
+      "expenses": 2148,
+      "employment_length": 10,
+      "loan_amount": 5751,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 63,
+    "profile": {
+      "income": 9097,
+      "expenses": 1785,
+      "employment_length": 8,
+      "loan_amount": 12329,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 64,
+    "profile": {
+      "income": 7066,
+      "expenses": 1232,
+      "employment_length": 3,
+      "loan_amount": 9908,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 65,
+    "profile": {
+      "income": 3662,
+      "expenses": 2327,
+      "employment_length": 2,
+      "loan_amount": 17528,
+      "loan_term": 60,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 66,
+    "profile": {
+      "income": 11512,
+      "expenses": 1621,
+      "employment_length": 5,
+      "loan_amount": 13411,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 67,
+    "profile": {
+      "income": 4850,
+      "expenses": 2913,
+      "employment_length": 4,
+      "loan_amount": 12458,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 68,
+    "profile": {
+      "income": 2765,
+      "expenses": 1999,
+      "employment_length": 0,
+      "loan_amount": 35647,
+      "loan_term": 36,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 69,
+    "profile": {
+      "income": 5881,
+      "expenses": 2063,
+      "employment_length": 1,
+      "loan_amount": 11930,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 70,
+    "profile": {
+      "income": 4571,
+      "expenses": 2088,
+      "employment_length": 3,
+      "loan_amount": 5297,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 71,
+    "profile": {
+      "income": 3340,
+      "expenses": 2632,
+      "employment_length": 0,
+      "loan_amount": 26817,
+      "loan_term": 60,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 72,
+    "profile": {
+      "income": 2520,
+      "expenses": 1752,
+      "employment_length": 2,
+      "loan_amount": 31139,
+      "loan_term": 60,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 73,
+    "profile": {
+      "income": 2312,
+      "expenses": 1571,
+      "employment_length": 2,
+      "loan_amount": 24754,
+      "loan_term": 48,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 74,
+    "profile": {
+      "income": 11632,
+      "expenses": 2373,
+      "employment_length": 9,
+      "loan_amount": 12078,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 75,
+    "profile": {
+      "income": 6598,
+      "expenses": 2731,
+      "employment_length": 5,
+      "loan_amount": 15360,
+      "loan_term": 36,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 76,
+    "profile": {
+      "income": 4032,
+      "expenses": 3283,
+      "employment_length": 3,
+      "loan_amount": 13726,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 77,
+    "profile": {
+      "income": 2478,
+      "expenses": 2519,
+      "employment_length": 1,
+      "loan_amount": 35439,
+      "loan_term": 60,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 78,
+    "profile": {
+      "income": 7132,
+      "expenses": 2653,
+      "employment_length": 10,
+      "loan_amount": 13764,
+      "loan_term": 36,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 79,
+    "profile": {
+      "income": 6938,
+      "expenses": 3820,
+      "employment_length": 1,
+      "loan_amount": 9485,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 80,
+    "profile": {
+      "income": 5616,
+      "expenses": 2447,
+      "employment_length": 4,
+      "loan_amount": 12050,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 81,
+    "profile": {
+      "income": 5094,
+      "expenses": 3781,
+      "employment_length": 4,
+      "loan_amount": 12773,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 82,
+    "profile": {
+      "income": 2135,
+      "expenses": 2528,
+      "employment_length": 2,
+      "loan_amount": 21773,
+      "loan_term": 36,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 83,
+    "profile": {
+      "income": 3273,
+      "expenses": 2107,
+      "employment_length": 2,
+      "loan_amount": 35155,
+      "loan_term": 60,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 84,
+    "profile": {
+      "income": 6948,
+      "expenses": 3291,
+      "employment_length": 1,
+      "loan_amount": 8576,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 85,
+    "profile": {
+      "income": 14405,
+      "expenses": 1413,
+      "employment_length": 3,
+      "loan_amount": 12469,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 86,
+    "profile": {
+      "income": 9893,
+      "expenses": 2753,
+      "employment_length": 4,
+      "loan_amount": 19216,
+      "loan_term": 36,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 87,
+    "profile": {
+      "income": 3922,
+      "expenses": 1901,
+      "employment_length": 1,
+      "loan_amount": 38425,
+      "loan_term": 36,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 88,
+    "profile": {
+      "income": 2124,
+      "expenses": 1648,
+      "employment_length": 0,
+      "loan_amount": 12972,
+      "loan_term": 48,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 89,
+    "profile": {
+      "income": 2079,
+      "expenses": 1855,
+      "employment_length": 0,
+      "loan_amount": 28457,
+      "loan_term": 60,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 90,
+    "profile": {
+      "income": 3706,
+      "expenses": 1560,
+      "employment_length": 1,
+      "loan_amount": 23617,
+      "loan_term": 60,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 91,
+    "profile": {
+      "income": 2516,
+      "expenses": 2503,
+      "employment_length": 2,
+      "loan_amount": 37835,
+      "loan_term": 60,
+      "credit_history": "bad"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 92,
+    "profile": {
+      "income": 9960,
+      "expenses": 1581,
+      "employment_length": 10,
+      "loan_amount": 7190,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 93,
+    "profile": {
+      "income": 11113,
+      "expenses": 1447,
+      "employment_length": 8,
+      "loan_amount": 19757,
+      "loan_term": 12,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 94,
+    "profile": {
+      "income": 11149,
+      "expenses": 2228,
+      "employment_length": 5,
+      "loan_amount": 5778,
+      "loan_term": 36,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 95,
+    "profile": {
+      "income": 8167,
+      "expenses": 1258,
+      "employment_length": 5,
+      "loan_amount": 8464,
+      "loan_term": 36,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 96,
+    "profile": {
+      "income": 11225,
+      "expenses": 2232,
+      "employment_length": 8,
+      "loan_amount": 7464,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 97,
+    "profile": {
+      "income": 8032,
+      "expenses": 1324,
+      "employment_length": 5,
+      "loan_amount": 17365,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  },
+  {
+    "id": 98,
+    "profile": {
+      "income": 4083,
+      "expenses": 2531,
+      "employment_length": 2,
+      "loan_amount": 9782,
+      "loan_term": 24,
+      "credit_history": "fair"
+    },
+    "decision": "decline",
+    "outcome": "default",
+    "labels": []
+  },
+  {
+    "id": 99,
+    "profile": {
+      "income": 8218,
+      "expenses": 2695,
+      "employment_length": 8,
+      "loan_amount": 18094,
+      "loan_term": 24,
+      "credit_history": "good"
+    },
+    "decision": "approve",
+    "outcome": "repaid",
+    "labels": []
+  }
+]
