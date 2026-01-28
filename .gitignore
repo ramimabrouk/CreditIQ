@@ -1,10 +1,30 @@
-# Python cache
+# =====================
+# Qdrant / Vector DB
+# =====================
+ma_memoire_qdrant/
+qdrant_data/
+*.lock
+
+# =====================
+# Python
+# =====================
 __pycache__/
 *.pyc
-
-# Virtual environments
+*.npy
 .venv/
 venv/
 
-# OS files
+# =====================
+# Generated data / artifacts
+# =====================
+base_de_connaissance.csv
+donnees_pretes_pour_vecteurs.csv
+mes_vecteurs.npy
+
+# =====================
+# OS / IDE
+# =====================
+.vscode/
+.idea/
+Thumbs.db
 .DS_Store
